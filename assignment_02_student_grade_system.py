@@ -65,6 +65,7 @@ def main():
     if grade is None:
         print("Error: The score must be between 0 and 100.")
     else:
+        
         print(f"Grade: {grade}")
 
 
